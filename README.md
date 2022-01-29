@@ -1,4 +1,4 @@
-# Big-Data-Stream-Visualization-as-a-Service-in-Smart-Factories-v2
+# Toward an API-driven infinite cyber-screen for custom real-time visualizations of Big Data streams
 
 This repository is associated to a conference paper not published yet. 
 
